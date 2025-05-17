@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/papigon/static/css/main.2c1eb4b8.css",
+    "main.css": "/papigon/static/css/main.8c76db78.css",
     "main.js": "/papigon/static/js/main.4a1391e4.js",
     "static/js/453.40df3446.chunk.js": "/papigon/static/js/453.40df3446.chunk.js",
     "static/media/Cover.jpg": "/papigon/static/media/Cover.99f7e6e828ddea76da00.jpg",
     "static/media/background.jpg": "/papigon/static/media/background.9f39fed87f6d497764c3.jpg",
     "index.html": "/papigon/index.html",
-    "main.2c1eb4b8.css.map": "/papigon/static/css/main.2c1eb4b8.css.map",
+    "main.8c76db78.css.map": "/papigon/static/css/main.8c76db78.css.map",
     "main.4a1391e4.js.map": "/papigon/static/js/main.4a1391e4.js.map",
     "453.40df3446.chunk.js.map": "/papigon/static/js/453.40df3446.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c1eb4b8.css",
+    "static/css/main.8c76db78.css",
     "static/js/main.4a1391e4.js"
   ]
 }
